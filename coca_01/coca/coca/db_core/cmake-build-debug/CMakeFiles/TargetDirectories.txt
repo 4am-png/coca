@@ -1,0 +1,3 @@
+U:/code/git/coca/coca/db_core/cmake-build-debug/CMakeFiles/db_core.dir
+U:/code/git/coca/coca/db_core/cmake-build-debug/CMakeFiles/edit_cache.dir
+U:/code/git/coca/coca/db_core/cmake-build-debug/CMakeFiles/rebuild_cache.dir
